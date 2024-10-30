@@ -1,4 +1,4 @@
-# Sistemas-Embarcados
+# Sistemas Embarcados
 
 Trabalho da disciplina de Sistemas Embarcados.
 
